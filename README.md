@@ -1,8 +1,13 @@
+# Thorium
+
 # Project-Url-ShortnerGroup54
 
-# Thoriumc
-
 ## Scalable URL Shortner Project Requirement
+
+# Members
+
+- Mohammad Junaid Mallick
+- Rahul Hedau
 
 ## Phase I
 

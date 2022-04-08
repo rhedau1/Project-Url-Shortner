@@ -1,5 +1,5 @@
 const express = require('express')
-const router = express.Router()
+const router = express.Router() // creating express route handler
 const urlController = require('../controllers/urlController')
 
 router.post('/url/shorten', urlController.urlShortner)
